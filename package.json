@@ -6,6 +6,14 @@
     "node",
     "chai"
   ],
+  "homepage": "https://github.com/abhishekrana43/Backend#readme",
+  "bugs": {
+    "url": "https://github.com/abhishekrana43/Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekrana43/Backend.git"
+  },
   "license": "ISC",
   "author": "abhishek rana",
   "type": "commonjs",
@@ -16,5 +24,6 @@
   "dependencies": {
     "dotenv": "^17.2.1",
     "express": "^5.1.0"
-  }
+  },
+  "devDependencies": {}
 }
